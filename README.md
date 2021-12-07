@@ -109,3 +109,6 @@ SIS_ALLIN_CAS
 226 | cas | client | app
 ```
 
+## 13 - Acessar a opção GMUD no jenkins:
+
+ir para o caminho Infra > GMUD > GMud create
